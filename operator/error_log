@@ -1,0 +1,1 @@
+[02-Jan-2013 16:47:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/chatbrew/public_html/chatbrew.info/2.0/operator/index.php:42) in /home/chatbrew/public_html/chatbrew.info/2.0/operator/index.php on line 103

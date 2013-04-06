@@ -1,0 +1,1 @@
+<?php header("Location: startchat.php?hid=1");
